@@ -9,6 +9,6 @@ entries:
     name: my-simple-app
     type: helm
     urls:
-    - https://argocdt.z13.web.core.windows.net/my-simple-app-0.1.0.tgz
+    - https://raw.githubusercontent.com/Mohanraj4581/helm-charts/refs/heads/main/my-simple-app-0.1.0.tgz
     version: 0.1.0
 generated: "2025-09-06T15:36:56.935369138+05:30"
