@@ -7,7 +7,7 @@ entries:
     description: A Helm chart for Kubernetes
     digest: 6845f9771e0952ce63694cb2568ba944f83932505092cd9b066b74094ae50288
     name: my-simple-app
-    type: helm
+    type: application
     urls:
     - https://raw.githubusercontent.com/Mohanraj4581/helm-charts/refs/heads/main/my-simple-app-0.1.0.tgz
     version: 0.1.0
