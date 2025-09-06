@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  my-simple-app:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2025-09-06T15:36:56.935813088+05:30"
+    description: A Helm chart for Kubernetes
+    digest: 6845f9771e0952ce63694cb2568ba944f83932505092cd9b066b74094ae50288
+    name: my-simple-app
+    type: helm
+    urls:
+    - https://argocdt.z13.web.core.windows.net/my-simple-app-0.1.0.tgz
+    version: 0.1.0
+generated: "2025-09-06T15:36:56.935369138+05:30"
